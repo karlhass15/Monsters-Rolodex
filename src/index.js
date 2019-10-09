@@ -1,5 +1,5 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
+import React from 'react'; //lets us write in jsx
+import ReactDOM from 'react-dom'; //our little robot and virtual dom
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
